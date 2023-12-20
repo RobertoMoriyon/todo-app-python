@@ -1,12 +1,4 @@
-Lean work
-or not
-Good Order
-tuples
-Hola
-testing
 Export
-3342
-Testing GUI 
-334
-Testing GUI 1
-Program or not
+Test
+Test1
+Test2
